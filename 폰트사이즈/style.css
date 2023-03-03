@@ -1,0 +1,31 @@
+p:nth-child(1) {
+
+}
+
+/* p:nth-child(2) {
+  font-size: 100%;
+}
+/* 16px */
+
+/* p:nth-child(3) {
+  font-size: 200%;
+} */
+/* 32px */
+/* p:nth-child(4) {
+  font-size: 300%;
+}
+48px */ */
+
+p:nth-child(2) {
+  font-size: 1em;
+}
+/* 16px */
+
+p:nth-child(3) {
+  font-size: 1.5em;
+}
+/* px */
+p:nth-child(4) {
+  font-size: 2em;
+}
+/* 32px */
